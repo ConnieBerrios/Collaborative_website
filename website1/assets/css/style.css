@@ -20,3 +20,33 @@ body{
     margin: 0;    
     color: white;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Roboto:wght@300;400&display=swap');
+
+body{
+    background: #BDBDBD;
+}
+
+.navbar-brand {
+    padding-top: .1rem!important;
+    margin-right: .2rem;
+}
+
+.navbar a {
+    color: rgb(141, 141, 141)!important;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 14px;
+
+}
+
+.start-b {
+    font-size: 17.5px!important;
+    font-weight: 300!important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-top: .2rem!important;
+    padding-right: .9rem!important;
+    padding-left: .9rem!important;
+}
